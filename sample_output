@@ -1,0 +1,20 @@
+python3 sig www.google.com
+
+--IP--  www.google.com
+142.250.77.164
+
+--IP--  google.com
+216.58.203.46
+
+MAIL SERVER
+50 alt4.aspmx.l.google.com.
+20 alt1.aspmx.l.google.com.
+30 alt2.aspmx.l.google.com.
+40 alt3.aspmx.l.google.com.
+10 aspmx.l.google.com.
+
+REGISTRAR :::: MarkMonitor, Inc. 
+
+NAME SERVER
+NS1.GOOGLE.COM NS2.GOOGLE.COM NS3.GOOGLE.COM NS4.GOOGLE.COM ns4.google.com ns2.google.com ns1.google.com ns3.google.com 
+Total  time: 2.7159512042999268
